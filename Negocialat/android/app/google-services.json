@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "912399858699",
+    "project_id": "flutter-negocia-notificarion",
+    "storage_bucket": "flutter-negocia-notificarion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912399858699:android:a971050306eac563491b0e",
+        "android_client_info": {
+          "package_name": "lat.negocia.negocia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912399858699-hgk4ebi2an47t9db3bv4hmiper095j7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lat.negocia.negocia",
+            "certificate_hash": "a146b0dfc5101184c1eb680ef7c3e0951dc0d75f"
+          }
+        },
+        {
+          "client_id": "912399858699-uec9i2vuqca0g5jbgr60erg9g6mc9f1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOQykAVFt6ci-K0ib9ez-Tqzu5mYPAXLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912399858699-uec9i2vuqca0g5jbgr60erg9g6mc9f1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
