@@ -3,7 +3,7 @@ import 'package:negocia/src/providers/push_notifications_provider.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 import 'package:firebase_core/firebase_core.dart';
 
-
+//INICIALIZAR PRIMERA VENTANA
 void main() => runApp(MyApp());
 
 class MyApp extends StatefulWidget{
